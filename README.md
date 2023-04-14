@@ -1,6 +1,6 @@
 # Spring_app
 
-The live Webapp is currently under maintainance
+The live Webapp is  under maintainance
 Visit the link below for video Demo 
 
 [Video Demo](https://photos.app.goo.gl/UxaKvwP93FpJQYsCA)
