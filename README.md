@@ -1,7 +1,8 @@
 # Spring_app
 
 The live Webapp is  under maintainance
-githup repo link for the spring project:
+
+ Visit githup repo link for the spring project
 
 [github project link](https://github.com/DaveTolulope22/Spring_app)
 
