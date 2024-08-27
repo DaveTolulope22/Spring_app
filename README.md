@@ -1,4 +1,4 @@
-# Spring_app
+# Spring_boot_app
 
 The live Webapp is  under maintainance
 
